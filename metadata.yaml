@@ -1,4 +1,8 @@
 _repo: Brazilian-Literature_49605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49605-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldberg, Isaac
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4791
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49605#Brazilian-Literature
 gutenberg_issued: '2015-08-05'
 gutenberg_type: Text
 identifiers:
